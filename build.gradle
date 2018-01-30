@@ -1,0 +1,4 @@
+dependencies{
+  compile 'org.seleniumhq:selenium-java:CURRENT_VERSION_NUMBER'
+}
+
